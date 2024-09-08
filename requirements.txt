@@ -1,0 +1,15 @@
+langchain-openai
+langchain
+python-dotenv
+langchain_community
+langchain_core
+streamlit
+langchain-groq
+pandas
+numpy
+faiss-cpu
+pypdf
+sentence_transformers
+langchain-huggingface
+langchain_ollama
+langchain_chroma
